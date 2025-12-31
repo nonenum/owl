@@ -1,4 +1,5 @@
-# ~ Owl ~
+# ꧁ღ⊱ Owl ⊱ღ꧂
+
 #### Operating System
 
 Assembly and C study project based on nanobyte_os.
